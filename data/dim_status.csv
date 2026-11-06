@@ -1,0 +1,4 @@
+status_id,status_name,is_received,counts_in_compliance_base
+1,Received,1,1
+2,Not Received,0,1
+3,N/A,0,0
